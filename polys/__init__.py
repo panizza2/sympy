@@ -127,3 +127,7 @@ from .polyoptions import Options
 from .rings import ring, xring, vring, sring
 
 from .fields import field, xfield, vfield, sfield
+
+"""I've added this as a quick fix"""
+from .sparsearith import *
+from .sparsebasic import *
